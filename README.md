@@ -1,10 +1,7 @@
 ## Satellite Workshop with the 16th International Joint Conference on Computer Science and Software Engineering (JCSSE2019)
-### July 10, 2019 (08:30 - 16:30)
-### Hotel Amari Pattaya, Chonburi, Thailand
+### July 10, 2019 (08:30 - 16:30), Hotel Amari Pattaya, Chonburi, Thailand
 
-You can use the [editor on GitHub](https://github.com/eacop2019/eacop2019.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### หลักการและเหตุผล
 
 ### Markdown
 
