@@ -26,5 +26,6 @@ Dr. Kritchalach Thitikamol, Enterprise Architect
 #### Format of the Workshop
 In the morning session, the workshop will start with knowledge sharing talk by invited enterprise architect and specialist from software industry, then follow by presentation on enterprise architecture concept and other outlined topics. The afternoon session will be modeling workshop to put enterprise architecture concept into practice with case studies and hands-on tutorial to introduce the use of ArchiMate®.
 
-
 ArchiMate® is a registered trademark of The Open Group.
+
+![Poster](2019-EA-CoP-Workshop_Poster.png)
