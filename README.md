@@ -7,7 +7,7 @@ Dr. Kritchalach Thitikamol, Enterprise Architect
 #### Organizers: Faculty of ICT, Mahidol University
 1.	Dr. Thanwadee Sunetnanta	
 2.	Dr. Charnyote Pluempitiwiriyawej	
-3.	Dr. Srisupa Palakavangsa Na Ayudha
+3.	Dr. Srisupa Palakavongsa Na Ayudha
 4.	Dr. Chaiyong Ragkhitwetsagul	
 5.	Dr. Morakot Choetkiertikul		
 
